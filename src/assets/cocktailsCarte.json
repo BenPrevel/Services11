@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bloody Mary",
+    "price": "12$",
+    "img": "assets/BloodyMary.jpg"
+  },
+  {
+    "name": "Gin To",
+    "price": "12$",
+    "img": "assets/GinTonic.jpeg"
+  },
+  {
+    "name": "Moscow Mule",
+    "price": "12$",
+    "img": "assets/MoscowMule.jpeg"
+  }
+]
